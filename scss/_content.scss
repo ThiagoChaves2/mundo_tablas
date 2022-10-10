@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+.transform:hover{
+    transform: translate(50px, -40px);
+    transition: transform 1s;
+}
+.novedades__articulo{
+    width: 90%;
+    height: auto;
+    margin: 20px 50px 50px 100px;
+    padding: 20px 5px;
+    border-top: solid black 3px;
+}
+#contacto{
+    color: $thirdColor;
+}
+.textCenter{
+    text-align: center;
+    font-size: $textTi;
+}
+p{
+    text-align: center;
+    font-size: $textP;
+}
+.map{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}

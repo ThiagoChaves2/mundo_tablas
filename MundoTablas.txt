@@ -1,6 +1,8 @@
-*Actualizarlo en Sass.
-*Crear repositorio en GIT y subirlo a GitHub.
+*Adaptar proyecto en Sass.
 *Hacer Wireframe para Mobile.
 *Hacerlo responsive.
 *Ver por que el contenido se pone mas para la derecha.
-*Terminar de diseñar (colores,fonts,etc.)
+*Terminar de diseñar (colores,fonts,etc.).
+*Poner texto alternativo a las imagenes.
+*Usar el "transform:hover".
+*Organizar mejor la seccion "_content".
